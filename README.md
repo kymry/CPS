@@ -11,6 +11,6 @@ Uses C++ and the CPLEX library from IBM
 Boolean Satisfiability Program:
 Uses C++ and the Lingeling library
 
-Author: Kymry Burwell
-
 See individual project README for usage instructions
+
+Problem Instances of various sizes/complexities can be found in the Instances folder
